@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Хотдоги Рея</string>
+  <string name="orderButtonText">Заказать хотдоги!</string>
+  <string name="cartButtonText">Корзина</string>
+  <string name="takePictureButtonText">Сделать фото с Рейем</string>
+  <string name="mapButtonText">Карта</string>
+  <string name="aboutButtonText">О хотдогах Рея</string>
+</resources>
